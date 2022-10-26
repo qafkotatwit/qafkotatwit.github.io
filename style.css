@@ -6,7 +6,7 @@ html, body {
     background-color: #f6f6f6;
 }
 
-@media only screen and (min-Width: 1150px){
+@media only screen and (min-Width: 1200px){
     .logo{
         width: 100%;
         margin-top: 30px;
@@ -166,13 +166,13 @@ html, body {
     }
     
 }
-@media only screen and (max-width:1670px){
+@media only screen and (max-width:1760px){
     .project-picture img{
         height: 240px;
     }
 }
 
-@media only screen and (max-width:1150px){
+@media only screen and (max-width:1200px){
 
     .logo{
         width: 100%;
@@ -321,11 +321,12 @@ html, body {
     
     .pictures{
         display: flex;
+        width: 90%;
         justify-content: center;
     }
     
     .project-picture img{
-        height: 100px;
+        height: 90px;
         margin: 5px;
     }
     
