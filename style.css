@@ -206,7 +206,7 @@ html, body {
     }
     
     .menu-items {
-        font-size: 1.2em;
+        font-size: 0.8em;
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -244,7 +244,7 @@ html, body {
     
     .home-text{
         margin-top: 5%;
-        width: 390px;
+        width: 320px;
         line-height: 1.5;
     }
     .home-name{
@@ -254,6 +254,10 @@ html, body {
     
     .home-picture{
         margin-top: 10%;
+    }
+
+    .home-picture img{
+        height: 250px;
     }
 
     .home-pictures{
@@ -318,8 +322,8 @@ html, body {
     
     .project-picture img{
         width: auto;
-        height: 120px;
-        margin: 10px;
+        height: 100px;
+        margin: 5px;
     }
     
     .text{
@@ -332,11 +336,12 @@ html, body {
     .project-name{
         text-align: center;
         font-size: 1.8em;
+        width: 100%;
     }
     .project-text{
         line-height: 1.5;
         align-items: center;
-        width: 390px;
+        width: 90%;
     }
     
     .research-picture img{
