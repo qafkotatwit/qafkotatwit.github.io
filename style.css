@@ -147,7 +147,6 @@ html, body {
     .project-picture{
         margin-left: 25px;
     }
-
     
     .text{
         display: flex;
@@ -326,10 +325,10 @@ html, body {
     }
     
     .project-picture img{
-        width: auto;
         height: 100px;
         margin: 5px;
     }
+    
     
     .text{
         display: flex;
